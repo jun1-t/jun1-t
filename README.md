@@ -1,5 +1,7 @@
-### Hi there 👋
+Hi, I'm junichi.  
+Infra Engineer from Japan.
 
+<img src="https://cdk-stats.vercel.app/api?username=jun1-t"/>
 <!--
 **jun1-t/jun1-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
