@@ -1,5 +1,5 @@
 Hi, I'm junichi.  
-Infra Engineer from Japan.
+Infra Engineer from Japan.  
 I'm interested in AWS CDK.
 
 <img src="https://cdk-stats.vercel.app/api?username=jun1-t"/>
